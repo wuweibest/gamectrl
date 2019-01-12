@@ -9,3 +9,5 @@
 1448337212|||1|1|TrainLink
 1448457783|||1|3|MergeMonster
 1448457930|||1|1|FlyCar
+1448982181|||1|1|InfiteBike
+1448980468|||1|1|MuddyTruck
