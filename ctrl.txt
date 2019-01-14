@@ -2,12 +2,12 @@
 1446841025|||0|1|FlipBasketBall
 1447208895|||1|1|CurvyCar
 1447936567|||1|1|FillDraw
-1448459935|||1|3|InfiniteZombie
+1448459935|||1|2|InfiniteZombie
 1448459858|||1|2|Hunter
 1447935698|||1|1|Skyscraper
 1447933182|||1|3|CreationShooter
 1448337212|||1|1|TrainLink
-1448457783|||1|3|MergeMonster
+1448457783|||1|1|MergeMonster
 1448457930|||1|1|FlyCar
 1448982181|||1|1|InfiteBike
 1448980468|||1|1|MuddyTruck
