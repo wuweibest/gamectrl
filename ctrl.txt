@@ -11,3 +11,5 @@
 1448457930|||1|1|FlyCar
 1448982181|||1|1|InfiteBike
 1448980468|||1|1|MuddyTruck
+1449439160|||1|3|DinosaurZombie
+1449440188|||1|3|PlaneMaster
