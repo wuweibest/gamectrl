@@ -12,4 +12,7 @@
 1448982181|||1|1|InfiteBike
 1448980468|||1|1|MuddyTruck
 1449439160|||1|3|DinosaurZombie
-1449440188|||1|3|PlaneMaster
+1449440188|||1|1|PlaneMaster
+1449534677|||1|1|DinosaurDestroyer
+1449690176|||1|2|FlipTrain
+1449688967|||1|2|DangerousTrain
