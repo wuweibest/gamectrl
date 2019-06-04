@@ -22,3 +22,6 @@
 1457314667|||1|2|Wild Killer
 1458446389|||1|1|Train.io
 1461065471|||0|1000|Gas
+1462710536|||0|1|DinosaurRoad
+1458446389|||1|1|Train.io
+1466050156|||1|1000|IdleFishingTycoon
