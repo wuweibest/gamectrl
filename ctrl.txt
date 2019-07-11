@@ -20,7 +20,8 @@
 1453633746|||1|1|CarPuzzle
 1456712218|||1|45|KickingWall
 1457314667|||1|2|Wild Killer
-1458446389|||0|1|Train.io
+1458446389|||0|2|Train.io
 1461065471|||0|1000|Gas
-1462710536|||0|1|DinosaurRoad
+1462710536|||0|2|DinosaurRoad
+1465194786|||1|3|DestroyCity
 1466050156|||1|1|IdleFishingTycoon
