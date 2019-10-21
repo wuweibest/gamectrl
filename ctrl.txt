@@ -23,5 +23,7 @@
 1458446389|||0|1|Train.io
 1461065471|||0|1000|Gas
 1462710536|||0|1|DinosaurRoad
-1465194786|||1|1|DestroyCity
-1466050156|||1|1|IdleFishingTycoon
+1465194786|||0|1|DestroyCity
+1466050156|||0|1|IdleFishingTycoon
+1477429547|||0|1|GravityBowling
+1473767581|||0|1|IdleBuddy
